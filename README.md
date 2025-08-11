@@ -1,5 +1,3 @@
-# ai-corporate-agent
-
 🏢 AI Corporate Document Analyzer
 This project analyzes corporate .docx documents against ADGM (Abu Dhabi Global Market) compliance rules.
 It uses regex checks, RAG (Retrieval-Augmented Generation) with ADGM reference documents, and LLM-powered analysis to detect:
