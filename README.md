@@ -11,6 +11,7 @@ The output includes:
     A JSON report with structured issue details
 
 
+##Kindly, go to Edit Mode of README File to see the clear structure format of the Folder##
 📂 Project Folder Structure:
 ai-corporate-agent/
 |-- app.py                   # Gradio web UI
@@ -96,4 +97,5 @@ python-docx - DOCX parsing and annotation
 pypdf - PDF reference ingestion
 ChromaDB - Vector store for RAG
 Sentence Transformers - Embedding model
+
 OpenAI GPT / Gemini - LLM-based analysis
