@@ -1,0 +1,45 @@
+{
+  "file_analyzed": "sample_AoA.docx",
+  "doc_type": "Articles of Association",
+  "classification_confidence": 1.0,
+  "num_paragraphs": 6,
+  "issues_found": [
+    {
+      "document": "sample_AoA.docx",
+      "doc_type": "Articles of Association",
+      "section": "Signatures",
+      "issue": "Possible missing signature block",
+      "severity": "High",
+      "suggestion": "Add signature block with name, position and date.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "page": 1,
+            "segment_index": 0,
+            "char_count": 75,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "chunk_index": 13487
+          },
+          "score": 0.0
+        },
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "chunk_index": 13493,
+            "char_count": 75,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "segment_index": 0,
+            "page": 1
+          },
+          "score": 0.0
+        }
+      ]
+    }
+  ],
+  "annotated_file": "C:\\Users\\Abhinaya Pottapalli\\ai-corporate-agent\\outputs\\annotated_sample_AoA.docx",
+  "report_file": null,
+  "analyzed_at": "20250811T045943Z"
+}

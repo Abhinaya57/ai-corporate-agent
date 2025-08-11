@@ -1,0 +1,275 @@
+{
+  "file_analyzed": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+  "doc_type": "Employment Contract",
+  "classification_confidence": 0.33,
+  "num_paragraphs": 133,
+  "issues_found": [
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 12",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "chunk_index": 13487,
+            "segment_index": 0,
+            "page": 1,
+            "char_count": 75
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 83",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "page": 1,
+            "char_count": 75,
+            "chunk_index": 13487,
+            "segment_index": 0,
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf"
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 92",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "segment_index": 0,
+            "chunk_index": 13487,
+            "char_count": 75,
+            "page": 1
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 94",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "page": 1,
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "segment_index": 0,
+            "chunk_index": 13487,
+            "char_count": 75
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 116",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "chunk_index": 13487,
+            "segment_index": 0,
+            "char_count": 75,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "page": 1
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 133",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "chunk_index": 13487,
+            "page": 1,
+            "segment_index": 0,
+            "char_count": 75
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 138",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "char_count": 75,
+            "page": 1,
+            "chunk_index": 13487,
+            "segment_index": 0,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f"
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 142",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "segment_index": 0,
+            "chunk_index": 13487,
+            "page": 1,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "char_count": 75,
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f"
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 157",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "chunk_index": 13487,
+            "char_count": 75,
+            "page": 1,
+            "segment_index": 0
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 159",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "chunk_index": 13487,
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "page": 1,
+            "char_count": 75,
+            "segment_index": 0
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 178",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "segment_index": 0,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf",
+            "char_count": 75,
+            "page": 1,
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "chunk_index": 13487
+          },
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version May 2024.docx",
+      "doc_type": "Employment Contract",
+      "section": "Paragraph 192",
+      "issue": "Potentially ambiguous/non-binding language (may, best endeavours, etc.)",
+      "severity": "Medium",
+      "suggestion": "Consider using stronger binding language (e.g., 'shall') for obligations.",
+      "evidence": [
+        {
+          "text": "Office of Dat a Protection Appropriate Policy Document  Guidance & Template",
+          "meta": {
+            "chunk_index": 13487,
+            "segment_index": 0,
+            "char_count": 75,
+            "file_hash": "32c9be6bccb206029dbd7e08e1458b92b59e221802700d1fd0c0300620737e5f",
+            "page": 1,
+            "source_file": "ADGM DPR 2021 Appropriate Policy Document.pdf"
+          },
+          "score": 0.0
+        }
+      ]
+    }
+  ],
+  "annotated_file": "C:\\Users\\Abhinaya Pottapalli\\ai-corporate-agent\\outputs\\annotated_ADGM_Standard_Employment_Contract_-_ER_2019_-_Short_Version_May_2024.docx",
+  "report_file": null,
+  "analyzed_at": "20250811T045936Z"
+}
